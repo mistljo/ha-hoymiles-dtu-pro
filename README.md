@@ -1,6 +1,7 @@
 # Hoymiles DTU-Pro – Home Assistant Integration
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
+[![GitHub](https://img.shields.io/github/license/mistljo/ha-hoymiles-dtu-pro)](LICENSE)
 
 Home Assistant sensor platform for the **Hoymiles DTU-Pro** gateway.  
 Reads **inverter data** (all ports) and **DTSU666 smart meter data** directly via **Modbus TCP** over your local network — no cloud required.
@@ -39,7 +40,7 @@ This was reverse-engineered on firmware **V00.07.02** and confirmed with live me
 ### HACS (recommended)
 
 1. Open HACS → Integrations → ⋮ → Custom repositories
-2. Add URL: `https://github.com/YOUR_USERNAME/ha-hoymiles-dtu-pro`  Category: `Integration`
+2. Add URL: `https://github.com/mistljo/ha-hoymiles-dtu-pro`  Category: `Integration`
 3. Install **Hoymiles DTU-Pro**
 4. Restart Home Assistant
 
