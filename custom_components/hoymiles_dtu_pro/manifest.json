@@ -1,0 +1,11 @@
+{
+  "domain": "hoymiles_dtu_pro",
+  "name": "Hoymiles DTU-Pro (Inverter + DTSU666 Meter)",
+  "documentation": "https://github.com/YOUR_GITHUB_USERNAME/ha-hoymiles-dtu-pro",
+  "issue_tracker": "https://github.com/YOUR_GITHUB_USERNAME/ha-hoymiles-dtu-pro/issues",
+  "requirements": ["pymodbus>=3.0.0"],
+  "dependencies": [],
+  "codeowners": [],
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
